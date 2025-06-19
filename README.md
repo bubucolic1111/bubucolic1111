@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 歡迎來到 bubucolic1111 的互動主頁！
 
-<!--
-**bubucolic1111/bubucolic1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ✅ 每日任務牆
+📘 英文打卡：❓  
+💻 GitHub 學習：❓  
+📅 距離 TOEIC 考試：還有 XX 天！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌍 家鄉推薦牆
+- 台南：豆花 + 赤崁樓 🌃
+- 台中：大里夜市 + 逢甲雞排 🐔
+
+---
+
+## 📝 訪客簽到留言板
+> 今天學到好多～加油！– @小明  
+> 你是我最欣賞的 GitHub 主頁之一！– @阿卡比
