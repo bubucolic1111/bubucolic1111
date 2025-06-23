@@ -1,0 +1,44 @@
+name: 每日打卡自動建立
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # 每天台灣時間上午9點 (GitHub Actions 時區為 UTC)
+  workflow_dispatch:      # 手動啟動功能
+
+jobs:
+  create_daily_checkin:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 計算今天日期與 TOEIC 倒數
+        id: vars
+        run: |
+          today=$(TZ=Asia/Taipei date +'%Y-%m-%d')
+          exam_date="2025-07-27"
+          days_left=$(( ( $(date -d "$exam_date" +%s) - $(date +%s) ) / 86400 ))
+          echo "today=$today" >> $GITHUB_OUTPUT
+          echo "days_left=$days_left" >> $GITHUB_OUTPUT
+
+      - name: 建立每日打卡 Issue
+        uses: peter-evans/create-issue@v5
+        with:
+          title: "打卡日：${{ steps.vars.outputs.today }}（倒數 ${{ steps.vars.outputs.days_left }} 天）"
+          labels: 任務打卡
+          body: |
+            ### 🗓️ 打卡日：${{ steps.vars.outputs.today }}
+            ### ⏳ TOEIC 倒數：${{ steps.vars.outputs.days_left }} 天
+
+            ---
+
+            ## ✅ 今天做了什麼？
+
+            - [ ] 📘 我有學英文
+            - [ ] 💻 我在 GitHub 學到一件事
+            - [ ] ⏳ 我查看了 TOEIC 倒數天數
+
+            ---
+
+            ## 📍 推薦美食 / 景點（歡迎留言！）
+
+            - 🍜 名稱：
+            - 📍 地點：
+            - 💬 評語：
