@@ -1,4 +1,6 @@
-## 🎵 Spotify
+<p align="center">
+  <img src="https://media.giphy.com/media/U96DO8bWcgWcNp4UWH/giphy.gif" alt="Flip Clock Sticker" />
+</p>
 
 <p align="center">
   <!-- 最近播放（需到 https://spotify-recently-played-readme.vercel.app/ 授權一次） -->
