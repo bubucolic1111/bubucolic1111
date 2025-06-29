@@ -6,11 +6,23 @@
 
 ---
 
-## 📆 年度貢獻圖
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bubucolic1111&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/bubucolic1111" alt="GitHub Contributions Chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubucolic1111&layout=compact" alt="Top Languages" />
 </p>
+
+![Visitor Count](https://profile-counter.glitch.me/bubucolic1111/count.svg)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bubucolic1111&theme=onedark&no-frame=true&column=4" alt="Trophies">
+</p>
+
+[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/你的帳號)
+
+
 
 ---
 
