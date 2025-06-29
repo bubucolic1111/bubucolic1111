@@ -1,3 +1,19 @@
+## 🎵 Spotify
+
+<p align="center">
+  <!-- 最近播放（需到 https://spotify-recently-played-readme.vercel.app/ 授權一次） -->
+  <a href="https://open.spotify.com/user/dfkx2wj3jk04jeenb5xt5tedk" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=dfkx2wj3jk04jeenb5xt5tedk" alt="Spotify 最近播放" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- 如果不想授權，也可以顯示公開的 Profile 卡 -->
+  <a href="https://open.spotify.com/user/dfkx2wj3jk04jeenb5xt5tedk" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/profile?user=dfkx2wj3jk04jeenb5xt5tedk" alt="Spotify Profile" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
@@ -28,5 +44,3 @@
   <img src="https://img.shields.io/badge/Issues-0-lightgrey?style=flat-square" alt="Issues">
   <img src="https://img.shields.io/badge/Stars-0-blue?style=flat-square" alt="Stars">
 </p>
-
----
