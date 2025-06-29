@@ -7,12 +7,6 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- 如果不想授權，也可以顯示公開的 Profile 卡 -->
-  <a href="https://open.spotify.com/user/dfkx2wj3jk04jeenb5xt5tedk" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/profile?user=dfkx2wj3jk04jeenb5xt5tedk" alt="Spotify Profile" />
-  </a>
-</p>
 
 ---
 
