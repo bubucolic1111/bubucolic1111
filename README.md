@@ -20,10 +20,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=bubucolic1111&theme=onedark&no-frame=true&column=4" alt="Trophies">
 </p>
 
-[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/dfkx2wj3jk04jeenb5xt5tedk)
-
-
-
+[![Spotify 最近播放](https://spotify-recently-played-readme.vercel.app/api?user=dfkx2wj3jk04jeenb5xt5tedk)](https://open.spotify.com/user/dfkx2wj3jk04jeenb5xt5tedk)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dfkx2wj3jk04jeenb5xt5tedk)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dfkx2wj3jk04jeenb5xt5tedk&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dfkx2wj3jk04jeenb5xt5tedk&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dfkx2wj3jk04jeenb5xt5tedk&unique={true|1|on|yes})
 ---
 
 ## 📊 簡易統計
