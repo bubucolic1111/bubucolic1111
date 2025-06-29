@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <title>我的個人網站</title>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/flipclock/0.7.8/flipclock.css"
+  />
+</head>
+<body>
+  <div class="clock" style="margin:0 auto; max-width:300px;"></div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/flipclock/0.7.8/flipclock.min.js"></script>
+  <script>
+    $(function() {
+      $('.clock').FlipClock({
+        clockFace: 'TwentyFourHourClock',
+        autoStart: true
+      });
+    });
+  </script>
+</body>
+</html>
