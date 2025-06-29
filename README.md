@@ -20,7 +20,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=bubucolic1111&theme=onedark&no-frame=true&column=4" alt="Trophies">
 </p>
 
-[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/你的帳號)
+[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/dfkx2wj3jk04jeenb5xt5tedk)
 
 
 
