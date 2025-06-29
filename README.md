@@ -21,10 +21,7 @@
 </p>
 
 [![Spotify 最近播放](https://spotify-recently-played-readme.vercel.app/api?user=dfkx2wj3jk04jeenb5xt5tedk)](https://open.spotify.com/user/dfkx2wj3jk04jeenb5xt5tedk)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dfkx2wj3jk04jeenb5xt5tedk)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dfkx2wj3jk04jeenb5xt5tedk&count={count})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dfkx2wj3jk04jeenb5xt5tedk&width={width})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dfkx2wj3jk04jeenb5xt5tedk&unique={true|1|on|yes})
+
 ---
 
 ## 📊 簡易統計
